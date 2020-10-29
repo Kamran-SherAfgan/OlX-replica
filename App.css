@@ -1,0 +1,492 @@
+*{
+  color: rgb(3, 32, 41);
+}
+
+#inline{
+  display: inline;
+  font-size: 20px;
+  font-weight: bolder;
+  margin-right: 30px;
+}
+
+.capital{
+  height: 25px !important;
+}
+
+.header{
+  background-color: #F7F7F7;
+  height: 69px;
+  text-align: center;
+}
+
+.height1-input{
+  height: 35px;
+  outline-color: black;
+  border: solid;
+}
+
+.height2{
+  height: 41px;
+}
+
+.width-pak{
+  width: 300px;
+  margin-right: 20px;
+}
+
+#search_icon{
+  width: 39px;
+  height: 39px;
+  position: relative;
+  top: 15px;
+  right: 46px;
+}
+
+.width-cars{
+  width: 700px;
+}
+
+.login-style{
+  border-style: none;
+  border-bottom: solid black;
+  margin-left: 20px;
+  font-weight: bold;
+}
+.sell-style{
+  margin-left: 20px;
+  border-radius: 30px;
+  width: 80px;
+  font-weight: bold;
+  background-color: white;
+  font-size: 15px;
+}
+
+.plus{
+  font-size: 20px;
+  padding-top: 15px;
+}
+
+
+
+.subheader{
+  border-bottom: solid #F7F7F7;
+  height: 36px;
+}
+
+.inline-cat{
+  display: inline;
+  margin-left: 20px;
+}
+
+.select{
+   border-style: none;
+   margin-left: 40px;
+   margin-top: 10px;
+   font-weight: bold;
+}
+
+
+
+
+
+.popular-search{
+  height: 30px;
+}
+
+.popular-heading{
+  margin: 5px 0 0 50px;
+}
+
+.filters{
+  width: 370px;
+  height: 200px;
+  border-bottom: solid #F7F7F7;
+  float: left;
+  margin-left: 40px;
+  }
+
+.filterHeading{
+  margin: 120px 0 0 20px;
+}  
+  .sort{
+    font-size: 10px;
+    width: 700px;
+    height: 170px;
+    margin-left: 420px;
+  border-bottom: solid #F7F7F7;
+  }
+
+
+
+  .motorcycles{
+    background-color: #ededed;
+    width: 90%;
+    height: 300px;
+    margin-left: 70px;
+    
+  }
+
+  .motorcycles>p{
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 10px;
+  }
+
+  .bike1{
+    float: left;
+    margin-left: 40px;
+    background-color: white;
+    width: 230px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+
+  }
+  .bike2{
+    float: left;
+    margin-left: 40px;
+    background-color: white;
+    width: 230px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+
+
+  }
+  .bike3{
+    float: left;
+    margin-left: 40px;
+    background-color: white;
+    width: 230px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+
+  }
+
+  #img_bike3{
+    padding-top: 5px;
+    padding-left: 25px;
+  }
+
+  #img_bike4{
+    width: 180px;
+    height: 104px;
+    padding-left: 17px;
+    padding-top: ;
+  }
+  .bike4{
+    float: left;
+    margin-left: 40px;
+    background-color: white;
+    width: 230px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+
+
+
+  .recommendation>p{
+    margin-left: 80px;
+    font-size: 20px;
+  }
+
+  .recommend1{
+    float: left;
+    margin-left: 120px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .recommend2{
+    float: left;
+    margin-left: 20px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+
+  }
+
+  .recommend3{
+    float: left;
+    margin-left: 20px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .recommend4{
+    float: left;
+    margin-left: 20px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+
+
+  .recommend2-1{
+    
+    margin-left: 120px;
+    margin-top: 240px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .recommend2-2{
+    margin-left: 413px;
+    margin-top: -205px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .recommend2-3{
+  
+    margin-left: 710px;
+    margin-top: -205px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .recommend2-4{
+  
+    margin-left: 1000px;
+    margin-top: -205px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+
+
+
+  .recommend3-1{
+    float: left;
+    margin-left: 120px;
+    margin-top: 20px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .recommend3-2{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .recommend3-3{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  .recommend3-4{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ededed;
+    padding-left: 20px;
+    cursor: pointer;
+  }
+
+  #recom_img{
+    position: relative;
+    left: 30px;
+    top: 5px;
+  }
+
+
+
+  .add-footer{
+    width: 1130px;
+    height: 100px;
+    margin-left: 120px;
+    margin-top: 240px;
+    padding-top: 50px;
+    border: 2px solid #ededed;
+    text-align: center;
+
+  }
+
+
+  .main-footer-list{
+    margin-top: 20px;
+    height: 150px;
+    background-color: #ededed;
+    border: 2px solid #ededed;
+
+    
+  }
+
+
+  li{
+    list-style: none;
+  }
+
+  .footer-popular{
+    margin-left: 75px;
+    font-size: 15px;
+
+  }
+
+  .popular-h5{
+    font-weight: bolder;
+    margin-left: 40px;
+  }
+
+ 
+  .popular-li{
+    color: rgb(134, 131, 131);
+    font-size: 12px;
+  }
+
+
+
+
+  .footer-trending{
+    margin: -120px 0px 0px 260px;
+    font-size: 15px;
+
+  }
+
+  .trending-h5{
+    font-weight: bolder;
+    margin-left: 40px;
+  }
+
+  .trending-li{
+    color: rgb(134, 131, 131);
+    font-size: 12px;
+  }
+
+
+
+
+  .footer-about{
+    margin: -122px 0px 0px 450px;
+    font-size: 15px;
+
+  }
+
+  .about-h5{
+    font-weight: bolder;
+    margin-left: 40px;
+  }
+
+  .about-li{
+    color: rgb(134, 131, 131);
+    font-size: 12px;
+  }
+
+
+
+  .footer-olx{
+    margin: -122px 0px 0px 700px;
+    font-size: 15px;
+  }
+
+  .olx-h5{
+    font-weight: bolder;
+  }
+
+  .olx-li{
+    color: rgb(134, 131, 131);
+    font-size: 12px;
+    margin-left: -40px;
+  }
+
+
+
+  .footer-followus{
+    margin: -106px 0px 0px 950px;
+    font-size: 15px;
+ }
+
+
+ .last-footer{
+   background-color: rgb(3, 32, 41);
+   height: 45px;
+   font-size: 12px;
+   padding-left: 115px;
+   padding-top: 10px;
+ }
+
+ .color{
+   color: white;
+ }
+
+ .countries{
+   padding-left: 20px;
+ }
+
+ .classified{
+   padding-left: 600px;
+ }
+
+ .social-icon{ 
+   padding-left: 10px;
+  position: relative;
+  top: -17px;
+  right: 10px;;
+  }
+
+  .social_store{
+    position: relative;
+    top: 15px;
+    left: 950px;
+  }
+
